@@ -13,7 +13,7 @@ Un cocktail original qui puise dans les racines philippines du rhum Don Papa. L�
 
 Ecraser les quartiers du citron vert et la menthe à l’aide d’un pilon puis ajouter l’ensemble des ingrédients dans un shaker. Secouer avec force. Filtrer et servir dans un long verre rempli de glace. Décorer avec un brin de menthe, des rondelles de citron et ajouter 2 gouttes de bitter thaïlandais pour rehausser la palette aromatique.
 
-![alt text](https://www.comptoir-irlandais.com/img/cms/blog/2018/05%20mai/cocktails/cocktail-Mojito.jpg "doesn'it look good")
+![alt text](./cocktail-Mojito.jpg "doesn'it look good")
 
 ---
 
