@@ -14,7 +14,7 @@ Ecraser les quartiers du citron vert et la menthe à l’aide d’un pilon puis 
 
 ![alt text](https://www.comptoir-irlandais.com/img/cms/blog/2018/05%20mai/cocktails/cocktail-Mojito.jpg "doesn'it look good")
 
-+++
+---
 
 
 Ce contenu est pris ce [cette](https://www.comptoir-irlandais.com/fr/blog/meilleurs-cocktails-au-rhum-n68) page.
