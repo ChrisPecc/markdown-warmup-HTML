@@ -2,6 +2,7 @@
 
 ## Le Don Papa Julep
 
+### Ingrédients
 + 5 cl de **rhum Don Papa**
 + 2 cl de jus de calamondin 
 + 2 sucre brun liquide cl 
@@ -17,7 +18,7 @@ Ecraser les quartiers du citron vert et la menthe à l’aide d’un pilon puis 
 ---
 
 
-Ce contenu est pris ce [cette](https://www.comptoir-irlandais.com/fr/blog/meilleurs-cocktails-au-rhum-n68) page.
+Ce contenu est pris de [cette](https://www.comptoir-irlandais.com/fr/blog/meilleurs-cocktails-au-rhum-n68) page.
 
 > et un tableau juste juste pour utiliser plus de mise en forme.
 > C'est | totalement | inutile
