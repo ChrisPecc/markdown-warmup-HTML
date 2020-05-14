@@ -9,6 +9,10 @@ div {
     width: 70%;
     background-color: darkcyan;
     color: white;
+    padding: 20px;
+    text-align: justify;
+    min-width: 600px;
+    max-width: 1200px;
 }
 
 p {
@@ -32,11 +36,21 @@ h3 {
     color: tomato;
 }
 
-img {
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .note {
     text-align: right;
+}
+
+table {
+    color: white;
+}
+
+blockquote {
+    background-color: skyblue;
+    width: 500px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
